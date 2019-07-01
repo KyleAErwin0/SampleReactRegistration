@@ -1,0 +1,24 @@
+.header-container
+{
+  border-bottom: 1px solid #dadfdf;
+  margin: 0px 0 20px;
+  padding: 20px 0 0;
+  background-color: #fff;
+  height: 100%;
+}
+
+.logo
+{
+  margin: 0 1rem 1rem !important;
+  width: 150px;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+
+}
+
+@media only screen and (min-width: 768px) {
+
+}

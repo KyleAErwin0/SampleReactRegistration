@@ -1,0 +1,13 @@
+input
+{
+    border-radius: 5px;
+    border: .5px solid #212529;
+    width: 30%;
+    height: 2em;
+    margin-bottom: 1em;
+}
+
+h2
+{
+  color: red;
+}
